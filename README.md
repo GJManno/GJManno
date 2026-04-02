@@ -1,16 +1,42 @@
-## Hi there 👋
+# Re: GXM
 
-<!--
-**GJManno/GJManno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shipping AI solutions that scale teams and industries into the future.
 
-Here are some ideas to get you started:
+While **NOT** a classically trained develoer, I've silently dabbled for over a decade.
+My sweet spot has always been on the frontline watching people and tech fail in real-time.
+With the rise of agentic coding, I've pivoted from RevOps to DevOps full-time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a longimte coach and athlete I thrive in teams where I can **learn, teach, and multiply**
+
+I surround myself with high-performers (and bots) that resonate with local/family-first culture.
+I pride myself on being accountable and prepared to consistently deliver above and beyond expectations.
+
+### My Industries:
+**AI** · **Health Benefits** · **Medical Marijuana** · **Consulting**
+
+I'm open-minded and trust my gut. My head is always on a swivel, but there is still a lot idk.
+My opinions are strong, but held loosely. I've love for you to convince to believe something new.
+Your creative ideas are always welcomed and I reserve my right to reinvent myself mañana.
+
+---
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garret-manno-798ab0397/)
+
+**Source Available:**
+- 🏁 [TrackMC](https://trackmc.ai) — Team knowledge that survives turnover. Private memory that travels with you.
+ 
+**Other Projects:**
+- ✅ [Accurate Enroll](https://accurateenroll.com) — AI decision support for emplyoee health benefits. Case builds. Communication management.
+  
+- 🛡️ [Paramount Protections](https://paramountprotections.com) — Home defense soltuions in the GTA. Wordpress infrastructure upgrade.
+
+**Coming Soon:**
+- Lacrosse Team Management Network
+- Franchise Compliance Platform
+- MMJ Education Database
+- Open-Source MMJ Analytics
+
+**Stack:** Python · Django · PostgreSQL or whatever ships clean, quick and lasts
+
+**// Design. Deploy. Disrupt.**
