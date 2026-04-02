@@ -15,7 +15,7 @@ I pride myself on being accountable and prepared to consistently deliver above a
 **AI** · **Health Benefits** · **Medical Marijuana** · **Consulting**
 
 I'm open-minded and trust my gut. My head is always on a swivel, but there is still a lot idk.
-My opinions are strong, but held loosely. I'd love for you to convince to believe something new.
+My opinions are strong, but held loosely. I'd love for you to convince me to believe something new.
 Your creative ideas are always welcomed and I reserve my right to reinvent myself mañana.
 
 ---
