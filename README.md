@@ -2,7 +2,7 @@
 
 Shipping AI solutions that scale teams and industries into the future.
 
-While **NOT** a classically trained develoer, I've silently dabbled for over a decade.
+While **NOT** a classically trained developer, I've silently dabbled for over a decade.
 My sweet spot has always been on the frontline watching people and tech fail in real-time.
 With the rise of agentic coding, I've pivoted from RevOps to DevOps full-time.
 
