@@ -24,7 +24,7 @@ Your creative ideas are always welcomed and I reserve my right to reinvent mysel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garret-manno-798ab0397/)
 
 **Source Available:**
-- 🏁 [TrackMC](https://trackmc.ai) — Team knowledge that survives turnover. Private memory that travels with you.
+- 🏁 [TrackMC](https://trackmc.ai) — Team knowledge that persists turnover. Private memory thats portable. Provider agnotsic.
  
 **Other Projects:**
 - ✅ [Accurate Enroll](https://accurateenroll.com) — AI decision support for emplyoee health benefits. Case builds. Communication management.
