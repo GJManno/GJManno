@@ -32,10 +32,10 @@ Your creative ideas are always welcomed and I reserve my right to reinvent mysel
 - 🛡️ [Paramount Protections](https://paramountprotections.com) — Home defense soltuions in the GTA. Wordpress infrastructure upgrade.
 
 **Coming Soon:**
-- Lacrosse Team Management Network
-- Franchise Compliance Platform
-- MMJ Education Database
-- Open-Source MMJ Analytics
+- Lax Team Management Platform
+- Franchise Compliance Network
+- MMJ Education & Analytics
+
 
 **Stack:** Python · Django · PostgreSQL or whatever ships clean, quick and lasts
 
