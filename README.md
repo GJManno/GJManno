@@ -17,7 +17,7 @@ We pride ourselves on being aware, accountable, and prepared to consistently del
 We are open-minded and trust our gut. Our heads are always on a swivel. We are students before teachers. Our opinions are strong, but held loosely. Convince us to believe something new.
 Your creative input is welcome, and we reserve the right to reinvent ourselves mañana.
 
-#### [GXM Consulting](https://gxmc.net) // Design. Deploy. Disrupt.
+#### GXM Consulting // Design. Deploy. Disrupt.
 ---
 ### Let's Connect
 
