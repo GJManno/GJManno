@@ -1,4 +1,4 @@
-# Re: GXM Consulting
+# GXM Consulting
 
 Shipping AI solutions that scale teams and industries.
 
